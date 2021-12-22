@@ -1,4 +1,4 @@
-package Aula43.Exercicios;
+package Aula43.Exercicios.exer01;
 
 public class ContaEspecial extends ContaBancaria {
 
